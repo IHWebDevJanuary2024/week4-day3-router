@@ -1,11 +1,13 @@
+import studentsJson from '../students.json';
 import StudentCard from './StudentCard';
 
-function StudentsList({studentsArray}) {
+function StudentsList() {
+
 
     return (
         <ul>
             {
-                studentsArray.map((student, index) => {
+                studentsJson.map((student, index) => {
                     return <StudentCard key={index} student={student} />;
                 })
             }
