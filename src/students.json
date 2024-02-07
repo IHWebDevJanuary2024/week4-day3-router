@@ -1,0 +1,122 @@
+[
+    {
+        "id": 987654321,
+        "name": "John Doe",
+        "age": 20,
+        "city": "Hospitalet",
+        "bootcamp": "data",
+        "haspaid": false
+    },
+    {
+        "id": 123456789,
+        "name": "Jane Smith",
+        "age": 33,
+        "city": "Girona",
+        "bootcamp": "web dev",
+        "haspaid": true
+    },
+    {
+        "id": 456789123,
+        "name": "David Garcia",
+        "age": 21,
+        "city": "Tarragona",
+        "bootcamp": "ux/ui",
+        "haspaid": true
+    },
+    {
+        "id": 987123456,
+        "name": "Emma Johnson",
+        "age": 22,
+        "city": "Lleida",
+        "bootcamp": "data",
+        "haspaid": false
+    },
+    {
+        "id": 654321987,
+        "name": "Daniel Martinez",
+        "age": 20,
+        "city": "Barcelona",
+        "bootcamp": "web dev",
+        "haspaid": true
+    },
+    {
+        "id": 321987654,
+        "name": "Sophia Lopez",
+        "age": 46,
+        "city": "Cornellà",
+        "bootcamp": "ux/ui",
+        "haspaid": true
+    },
+    {
+        "id": 789456123,
+        "name": "Michael Brown",
+        "age": 21,
+        "city": "Sant Cugat",
+        "bootcamp": "data",
+        "haspaid": true
+    },
+    {
+        "id": 456123789,
+        "name": "Olivia Taylor",
+        "age": 22,
+        "city": "Lleida",
+        "bootcamp": "web dev",
+        "haspaid": true
+    },
+    {
+        "id": 321789456,
+        "name": "Ethan Thomas",
+        "age": 20,
+        "city": "Barcelona",
+        "bootcamp": "ux/ui",
+        "haspaid": true
+    },
+    {
+        "id": 654789123,
+        "name": "Ava Clark",
+        "age": 29,
+        "city": "Badalona",
+        "bootcamp": "data",
+        "haspaid": true
+    },
+    {
+        "id": 789123456,
+        "name": "Noah Rodriguez",
+        "age": 39,
+        "city": "Tarragona",
+        "bootcamp": "web dev",
+        "haspaid": true
+    },
+    {
+        "id": 123789456,
+        "name": "Isabella Perez",
+        "age": 22,
+        "city": "Lleida",
+        "bootcamp": "ux/ui",
+        "haspaid": true
+    },
+    {
+        "id": 456321987,
+        "name": "Liam Hernandez",
+        "age": 20,
+        "city": "Barcelona",
+        "bootcamp": "data",
+        "haspaid": true
+    },
+    {
+        "id": 789654123,
+        "name": "Mia Gonzalez",
+        "age": 19,
+        "city": "Girona",
+        "bootcamp": "web dev",
+        "haspaid": true
+    },
+    {
+        "id": 321456789,
+        "name": "Lucas Sanchez",
+        "age": 21,
+        "city": "Tarragona",
+        "bootcamp": "ux/ui",
+        "haspaid": false
+    }
+]
